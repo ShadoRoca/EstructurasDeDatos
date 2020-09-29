@@ -1,0 +1,91 @@
+body {
+    background-color: rgb(57, 112, 91);
+}
+
+.Encabezado {
+    color: whitesmoke;
+    font-family: fantasy;
+    padding: 50px;
+    background-color: black;
+    text-align: center;
+}
+
+h2 {
+    color: bisque;
+    font-family: sans-serif;
+    padding: 20px;
+    background-color: black;
+    text-align: center;
+}
+
+h3 {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+    background-color: rgba(161, 227, 231, 0.425);
+}
+
+h4 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+    padding: 20px;
+    background-color: rgb(19, 35, 48);
+    color: rgb(241, 233, 220);
+}
+
+.graph {
+    display: block;
+    margin: auto;
+}
+
+ul {
+    column-count: 3;
+    font-size: large;
+}
+
+svg {
+    padding: 30px;
+    display: block;
+    margin: auto;
+    background-color: darkgray;
+}
+
+.rj {
+    height: 200%;
+    width: 220%;
+}
+
+.pie {
+    height: 50%;
+    width: 50%;
+}
+
+.bar:hover {
+    fill: whitesmoke;
+}
+
+.textos:hover {
+    fill: crimson;
+}
+
+.Otroc:hover {
+    fill: grey;
+}
+
+.barra:hover {
+    fill: grey;
+}
+
+.barGraph {
+    height: 50%;
+    width: 60%;
+}
+
+.rebanadas:hover {
+    fill:grey;
+}
+
+.avl {
+    height: 80%;
+    width: 80%;
+}
